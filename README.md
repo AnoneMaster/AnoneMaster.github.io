@@ -1,2 +1,2 @@
-# AnoneMaster.github.io
+# AnoneMaster
 My site
