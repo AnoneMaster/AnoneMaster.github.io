@@ -3,90 +3,90 @@
         "name" : "apple watch",
         "cost" : 25000,
         "description" : "неплохие часы",
-        "img" : "/image/watch.png"
+        "img" : "./image/watch.png"
     },
     "00002" : {
         "name" : "iphone",
         "cost" : 40000,
         "description" : "отличный телефон",
-        "img" : "/image/iphone.png"
+        "img" : "./image/iphone.png"
     },
     "00003" : {
         "name" : "ipod",
         "cost" : 15000,
         "description" : "плеер для музыки",
-        "img" : "/image/mp3.png"
+        "img" : "./image/mp3.png"
     },
     "00004" : {
         "name" : "ipad",
         "cost" : 45000,
         "description" : "планшет для просмотра фильмов",
-        "img" : "/image/ipad.png"
+        "img" : "./image/ipad.png"
     },
     "00005" : {
         "name" : "airpods",
         "cost" : 13000,
         "description" : "замечательные наушники",
-        "img" : "/image/airpods.png"
+        "img" : "./image/airpods.png"
     },
     "00006" : {
         "name" : "apple watch",
         "cost" : 25000,
         "description" : "неплохие часы",
-        "img" : "/image/watch.png"
+        "img" : "./image/watch.png"
     },
     "00007" : {
         "name" : "iphone",
         "cost" : 40000,
         "description" : "отличный телефон",
-        "img" : "/image/iphone.png"
+        "img" : "./image/iphone.png"
     },
     "00008" : {
         "name" : "ipod",
         "cost" : 15000,
         "description" : "плеер для музыки",
-        "img" : "/image/mp3.png"
+        "img" : "./image/mp3.png"
     },
     "00009" : {
         "name" : "ipad",
         "cost" : 45000,
         "description" : "планшет для просмотра фильмов",
-        "img" : "/image/ipad.png"
+        "img" : "./image/ipad.png"
     },
     "000010" : {
         "name" : "airpods",
         "cost" : 13000,
         "description" : "замечательные наушники",
-        "img" : "/image/airpods.png"
+        "img" : "./image/airpods.png"
     },
     "00011" : {
         "name" : "apple watch",
         "cost" : 25000,
         "description" : "неплохие часы",
-        "img" : "/image/watch.png"
+        "img" : "./image/watch.png"
     },
     "00012" : {
         "name" : "iphone",
         "cost" : 40000,
         "description" : "отличный телефон",
-        "img" : "/image/iphone.png"
+        "img" : "./image/iphone.png"
     },
     "00013" : {
         "name" : "ipod",
         "cost" : 15000,
         "description" : "плеер для музыки",
-        "img" : "/image/mp3.png"
+        "img" : "./image/mp3.png"
     },
     "00014" : {
         "name" : "ipad",
         "cost" : 45000,
         "description" : "планшет для просмотра фильмов",
-        "img" : "/image/ipad.png"
+        "img" : "./image/ipad.png"
     },
     "00015" : {
         "name" : "airpods",
         "cost" : 13000,
         "description" : "замечательные наушники",
-        "img" : "/image/airpods.png"
+        "img" : "./image/airpods.png"
     }
 }
